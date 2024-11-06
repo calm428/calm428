@@ -1,4 +1,4 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3a7926,13:44942c,25:4fb733,38:52c035,50:56d235,63:99e384,75:aae897,88:caf0bc,100:d5f2c8&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
+<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:d5f2c,13:caf0bc,25:aae897,38:99e384,50:56d235,63:52c035,75:4fb733,88:44942c,100:3a7926&text=Welcome%20to%20my%20GitHub&reversal=true&section=header&fontAlignY=45&fontSize=40&textBg=false&animation=twinkling&fontColor=FFFFFF" /></a><br>
 
 <h1> 
   About Me
@@ -18,7 +18,7 @@
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 <br/><br/>
 
-<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Kula428&data=followers,repositories,stars,commits&theme=viridescent"></a>
+<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=Calm428&data=followers,repositories,stars,commits&theme=viridescent"></a>
 
 <h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
