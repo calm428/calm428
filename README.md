@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
+<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/Calm428/Calm428/auxiliary/others/Summary.svg" /></a>
 
 <h3>
   - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications<br/>
