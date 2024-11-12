@@ -217,21 +217,23 @@
 <table align="center">
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=BeautifulMoon211&show_icons=true&theme=vue" alt="BeautifulMoon211" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Calm428&show_icons=true&theme=vue" alt="Calm428" /></a>
     </td>
     <td align="center" width="60%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeautifulMoon211&theme=vue" alt="BeautifulMoon211" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Calm428&theme=vue" alt="Calm428" /></a>
     </td>
   </tr>
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=BeautifulMoon211&theme=vue&hide_border=true&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="BeautifulMoon211" /></a>
+        <a href="#-my-github-stats--"><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Calm428&theme=vue&hide_border=true&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="Calm428" /></a>
     </td>
     <td align="center" width="60%">
-        <a href="#-my-github-stats--" target="_blank"><img alt="BeautifulMoon211" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BeautifulMoon211&bg_color=ffffff&color=ff3845&line=7957d5&point=363636&area=true&hide_border=true" /></a>
+        <a href="#-my-github-stats--" target="_blank"><img alt="Calm428" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Calm428&bg_color=ffffff&color=449e48&line=4caf50&point=1e4620&area=true&hide_border=true" /></a>
     </td>
   </tr>
 </table>
+
+<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
 <div style="display: flex; align-items: center">
   <h1> 
@@ -245,24 +247,14 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-        <a href="https://github.com/BeautifulMoon211/BeautifulMoon211"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=BeautifulMoon211&repo=BeautifulMoon211&theme=vue" alt="BeautifulMoon211" /></a>
+        <a href="https://github.com/Calm428/Calm428"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Calm428&repo=Calm428&theme=vue" alt="Calm428" /></a>
     </td>
     <td align="center" width="50%">
-        <a href="https://github.com/BeautifulMoon211/Yelp-Scraping"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=BeautifulMoon211&repo=Yelp-Scraping&theme=vue" alt="BeautifulMoon211" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-        <a href="https://github.com/BeautifulMoon211/Redfin-Scraping"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=BeautifulMoon211&repo=Redfin-Scraping&theme=vue" alt="BeautifulMoon211" /></a>
-    </td>
-    <td align="center" width="50%">
-        <a href="https://github.com/BeautifulMoon211/Onthemarket-Scraping"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=BeautifulMoon211&repo=Onthemarket-Scraping&theme=vue" alt="BeautifulMoon211" /></a>
+        <a href="https://github.com/Calm428/myru"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Calm428&repo=myru&theme=vue" alt="Calm428" /></a>
     </td>
   </tr>
 </table>
 
-
-<a align="center" href="#-my-github-stats--"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg" alt="GitHub Streak" /></a>
 
 <h2>
   If you found this project useful or interesting, please consider giving it a 
