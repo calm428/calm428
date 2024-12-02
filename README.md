@@ -11,7 +11,6 @@
 
 <h3>
   - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications<br/>
-  - 📦 Blockchain enthusiast with 3+ years of experience in designing, developing, and deploying innovative solutions<br/>
   - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
   - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS, DigitalOcean, GCP and Azure<br/>
 </h3>
@@ -34,16 +33,20 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
-        <br><h4>Python</h4>
-    </td>
-    <td align="center" width="90">
         <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
         <br><h4>Javascript</h4>
     </td>
     <td align="center" width="90">
         <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
         <br><h4>Typescript</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+        <br><h4>Python</h4>
+    </td>
+    <td align="center" width="90">
+        <a href="https://go.dev/" target="_blank"><img alt="Python" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/golang.svg" /></a>
+        <br><h4>Golang</h4>
     </td>
     <td align="center" width="90">
         <a href="https://www.php.net/" target="_blank"><img alt="PHP" width="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/php.svg" /></a>
@@ -84,10 +87,6 @@
     <td align="center" width="90">
         <a href="https://threejs.org/" target="_blank"><img alt="Three.js" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/three.js.svg" /></a>
         <br><h4>Three.js</h4>
-    </td>
-    <td align="center" width="90">
-        <a href="https://beautiful-soup-4.readthedocs.io/" target="_blank"><img alt="Beautiful Soup" width="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/libraries/beautiful-soup.svg" /></a>
-        <br><h4>Beautiful Soup</h4>
     </td>
     <td align="center" width="90">
         <a href="https://www.selenium.dev/" target="_blank"><img alt="Selenium" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/libraries/selenium.svg" /></a>
@@ -158,8 +157,12 @@
         <br><h4>MySQL</h4>
     </td>
     <td align="center" width="90">
+        <a href="https://cassandra.apache.org/_/index.html" target="_blank"><img alt="Cassandra" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/cassandra.jpeg" /></a>
+        <br><h4>Cassandra</h4>
     </td>
     <td align="center" width="90">
+        <a href="https://www.oracle.com/" target="_blank"><img alt="Oracle" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/oracle.png"/></a>
+        <br><h4>Oracle</h4>
     </td>
     <td align="center" width="90">
     </td>
@@ -192,6 +195,8 @@
         <br><h4>Kubenetes</h4>
     </td>
     <td align="center" width="90">
+        <a href="https://www.jenkins.io/" target="_blank"><img alt="Jenkins" width="45" height="45" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/jenkins.svg" /></a>
+        <br><h4>Jenkins</h4>
     </td>
     <td align="center" width="90">
     </td>
@@ -251,6 +256,15 @@
     </td>
     <td align="center" width="50%">
         <a href="https://github.com/Calm428/myru"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Calm428&repo=myru&theme=vue" alt="Calm428" /></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+        <a href="https://github.com/Calm428/GFE"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Calm428&repo=GFE&theme=vue" alt="Calm428" /></a>
+    </td>
+    <td align="center" width="50%">
+        <a href="https://github.com/Calm428/Blockscout"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Calm428&repo=blockscout&theme=vue" alt="Calm428" /></a>
     </td>
   </tr>
 </table>
