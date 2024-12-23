@@ -6,7 +6,7 @@
     <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
   </a>
 </h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Calm428&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Calm428" /> </p>
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/Calm428/Calm428/auxiliary/others/Summary.svg" /></a>
 
 <h3>
@@ -264,11 +264,35 @@
         <a href="https://github.com/Calm428/GFE"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Calm428&repo=GFE&theme=vue" alt="Calm428" /></a>
     </td>
     <td align="center" width="50%">
-        <a href="https://github.com/Calm428/Blockscout"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Calm428&repo=blockscout&theme=vue" alt="Calm428" /></a>
+        <a href="https://github.com/Calm428/historic-lastfm"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Calm428&repo=historic-lastfm&theme=vue" alt="Calm428" /></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+        <a href="https://github.com/Calm428/sora"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Calm428&repo=Sora&theme=vue" alt="Calm428" /></a>
+    </td>
+    <td align="center" width="50%">
+        <a href="https://github.com/Calm428/microservices-ecommerce"><img width="100%" src="https://github-readme-stats-lilac-chi-70.vercel.app/api/pin/?username=Calm428&repo=microservices-ecommerce&theme=vue" alt="Calm428" /></a>
     </td>
   </tr>
 </table>
 
+<hr />
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+        <a href="https://github.com/HighAmbition211/HighAmbition211" target="_blank"><img alt="star" height="15" src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=BCF7CD&label=GitHub%20Stars&labelColor=115128&style=flat&query=%24.stars&color=BCF7CD&url=https://api.github-star-counter.workers.dev/user/highambition211" /></a>
+    </td>
+    <td align="center" width="90">
+        <a href="https://github.com/HighAmbition211/HighAmbition211" target="_blank"><img alt="view" height="15" src="https://visitcount.itsvg.in/api?id=calm428&label=Profile%20Views&color=3&pretty=true" /></a>
+    </td>
+    <td align="center" width="90">
+        <a href="https://github.com/HighAmbition211/HighAmbition211" target="_blank"><img alt="fork" height="15" src="https://img.shields.io/badge/dynamic/json?logo=github&logoColor=BCF7CD&label=GitHub%20Forks&labelColor=115128&style=flat&query=%24.forks&color=BCF7CD&url=https://api.github-star-counter.workers.dev/user/highambition211" /></a>
+    </td>
+  </tr>
+</table>
 
 <h2>
   If you found this project useful or interesting, please consider giving it a 
